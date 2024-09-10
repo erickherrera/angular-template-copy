@@ -1,0 +1,24 @@
+{
+  "name": "angular-template-copy",
+  "version": "1.0.0",
+  "description": "This project is part of Learn Angular from scratch step by step tutorial where we explore from the basic concepts and why’s of Angular Framework to building a complete Angular app using Angular Material components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickherrera/angular-template-copy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickherrera/angular-template-copy/issues"
+  },
+  "homepage": "https://github.com/erickherrera/angular-template-copy#readme",
+  "dependencies": {
+    "angular": "^1.8.3",
+    "modules": "^0.4.0",
+    "node-gyp-build-optional-packages": "^5.2.2"
+  }
+}
