@@ -17,8 +17,32 @@
   },
   "homepage": "https://github.com/erickherrera/angular-template-copy#readme",
   "dependencies": {
+    "@angular/animations": "^6.1.10",
+    "@angular/cdk": "^6.4.7",
+    "@angular/common": "^6.1.10",
+    "@angular/compiler": "^6.1.10",
+    "@angular/core": "^6.1.10",
+    "@angular/forms": "^6.1.10",
+    "@angular/http": "^6.1.10",
+    "@angular/material": "^6.4.7",
+    "@angular/platform-browser": "^6.1.10",
+    "@angular/platform-browser-dynamic": "^6.1.10",
+    "@angular/router": "^6.1.10",
     "angular": "^1.8.3",
+    "bootstrap-sass": "^3.4.1",
+    "font-awesome": "^4.7.0",
+    "hammerjs": "^2.0.8",
     "modules": "^0.4.0",
-    "node-gyp-build-optional-packages": "^5.2.2"
+    "node-gyp-build-optional-packages": "^5.2.2",
+    "rxjs": "^6.2.2",
+    "rxjs-compat": "^6.6.7",
+    "zone.js": "^0.8.26"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^0.8.9",
+    "@angular/compiler-cli": "^6.1.10",
+    "sass": "^1.32.13",
+    "sass-loader": "^7.3.1",
+    "typescript": "^2.9.2"
   }
 }
